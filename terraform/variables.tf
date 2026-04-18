@@ -1,9 +1,9 @@
 variable "bucket1" {
-  type = "String"
-  default = "source-bucket-j"
+  type = string
+  default = "source-bucket-jatin"
 }
 
 variable "bucket2" {
-  type = "String"
-  default = "destination-bucket-j"
+  type = string
+  default = "destination-bucket-jatind"
 }
